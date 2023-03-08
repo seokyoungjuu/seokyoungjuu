@@ -8,11 +8,12 @@
 <h3>🥳</h3>
 
 안녕하세요. 신입개발자 서경주 입니다.<br/>
-Have a day full of JOY.<br/>
+Have a day full of JOY.<br/><br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseokyoungjuu&count_bg=%23F3F3EC&title_bg=%23FDDC49&icon=iconify.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
-
+<hr/>
+<br/>
 <h3>💻 Tech Stack 💻</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -37,7 +38,6 @@ Have a day full of JOY.<br/>
 <hr/>
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokyoungjuu&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=seokyoungjuu&show_icons=true">
 <br/>
 
