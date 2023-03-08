@@ -2,15 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
 <div align = "center">
-
-<br/>
-
 <h3>🥳</h3>
 
 안녕하세요. 신입개발자 서경주 입니다.<br/>
 Have a day full of JOY.<br/><br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseokyoungjuu&count_bg=%23F3F3EC&title_bg=%23FDDC49&icon=iconify.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br/><br/><br/>
+<br/><br/>
 
 <hr/>
 <br/>
@@ -35,6 +32,7 @@ Have a day full of JOY.<br/><br/>
 
 <h3>👩🏻‍💻 About me 👩🏻‍💻</h3>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+<br/>
 <hr/>
 
 <br/>
@@ -42,3 +40,6 @@ Have a day full of JOY.<br/><br/>
 <br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+  
+  
+</div>
